@@ -23,5 +23,10 @@ To run the app we just need to build the application in XCode and run it.
 # Limitations/ dependany
 As I don't have apple account, I have not created any certificates, provisopnal profiles so the app has to be run in simulator itself. It will run in devices too if certificate and provisional provisional are used. 
 
-Please find the demo video of the movie app attached below
+Please find the images of the movie app attached below
+![image1](https://github.com/Prathvi1999/MovieApp/blob/main/images/1000129096.png)
+
+![image2](https://github.com/Prathvi1999/MovieApp/blob/main/images/1000129097.png)
+
+![image3](https://github.com/Prathvi1999/MovieApp/blob/main/images/1000129098.png)
 
